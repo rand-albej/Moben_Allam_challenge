@@ -1,3 +1,5 @@
+Mobeen
+
 Description:
 
 This project is an Arabic child-friendly interactive storyteller and activities suggester. It uses speech-to-text and text-to-speech APIs to allow children to interact with a virtual character, where the character tells stories, asks questions, and suggests activities based on the child's hobbies and interests. The app uses IBM Watson for AI-based conversations and Cloud APIs for speech recognition and synthesis.
