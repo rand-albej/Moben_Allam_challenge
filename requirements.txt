@@ -1,0 +1,6 @@
+Flask
+pyaudio
+google-cloud-speech
+google-cloud-texttospeech
+ibm-watsonx-ai
+
